@@ -1,0 +1,10 @@
+.main-board{
+    display: flex;
+}
+.player-container{
+    width: 65%;
+    margin-left: 25px;
+    border-right: 1px solid lightgray;
+    text-align: center;
+    padding: 50px;
+}

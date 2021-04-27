@@ -1,0 +1,9 @@
+.hire-board{
+    text-align: center;
+    margin:20px;
+}
+#hire-info{
+    border:2px solid gray;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+}

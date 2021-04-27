@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "name":"Sakib Al Hasan",
+        "catagory":"All-rounder",
+        "country":"Bangladesh",
+        "salary":"15000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg"
+    },
+    {
+        "id":2,
+        "name":"Mashrafe Mortaza",
+        "catagory":"All-rounder",
+        "country":"Bangladesh",
+        "salary":"12000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg"
+    },
+    {
+        "id":3,
+        "name":"AB de Villiers",
+        "catagory":"Batsman",
+        "country":"South Africa",
+        "salary":"25000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170999/ab-de-villiers.jpg"
+    },
+    {
+        "id":4,
+        "name":"Mushfiqur Rahim",
+        "catagory":"Batsman & Wicket-keeper",
+        "country":"Bangladesh",
+        "salary":"11000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg"
+    },
+    {
+        "id":5,
+        "name":"Tamim Iqbal",
+        "catagory":"Batsman",
+        "country":"Bangladesh",
+        "salary":"11500",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg"
+    },
+    {
+        "id":6,
+        "name":"Chris Gayle",
+        "catagory":"Batsman",
+        "country":"West Indies",
+        "salary":"18000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170801/chris-gayle.jpg"
+    },
+    {
+        "id":7,
+        "name":"Mahmudullah Riyad",
+        "catagory":"All-rounder",
+        "country":"Bangladesh",
+        "salary":"10000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg"
+    },
+    {
+        "id":8,
+        "name":"Ross Taylor",
+        "catagory":"Batsman",
+        "country":"New Zealand",
+        "salary":"11000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170729/ross-taylor.jpg"
+    },
+    {
+        "id":9,
+        "name":"Mustafizur Rahman",
+        "catagory":"Bowler",
+        "country":"Bangladesh",
+        "salary":"12000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg"
+    },
+    {
+        "id":10,
+        "name":"Mohammad Nabi",
+        "catagory":"All-rounder",
+        "country":"Afghanistan",
+        "salary":"12000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170853/mohammad-nabi.jpg"
+    },
+    {
+        "id":11,
+        "name":"Mominul Haque",
+        "catagory":"All-rounder",
+        "country":"Bangladesh",
+        "salary":"7000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c148275/mominul-haque.jpg"
+    },
+    {
+        "id":12,
+        "name":"Andre Russell",
+        "catagory":"All-rounder",
+        "country":"West Indies",
+        "salary":"19000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170821/andre-russell.jpg"
+    },
+    {
+        "id":13,
+        "name":"Shahid Afridi",
+        "catagory":"All-rounder",
+        "country":"Pakistan",
+        "salary":"21000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c146389/shahid-afridi.jpg"
+    },
+    {
+        "id":14,
+        "name":"Trent Boult",
+        "catagory":"Bowler",
+        "country":"New Zealand",
+        "salary":"18000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170747/trent-boult.jpg"
+    },
+    {
+        "id":15,
+        "name":"Sabbir Rahman",
+        "catagory":"Batsman",
+        "country":"Bangladesh",
+        "salary":"7000",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170903/sabbir-rahman.jpg"
+    }   
+]
